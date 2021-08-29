@@ -1,0 +1,16 @@
+.card {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.best-total {
+  font-size: 18px;
+  color: white;
+}
+
+.hard > h3 {
+  color: white;
+}
